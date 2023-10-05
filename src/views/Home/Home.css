@@ -1,0 +1,27 @@
+.text-center {
+    text-align: center;
+}
+
+.fs-100 {
+    font-size: 50px;
+}
+
+.flexbox {
+    display: flex;
+    justify-content: center;
+}
+
+.counter-text {
+    font-size: 70px;
+    margin: 5px auto;
+}
+
+.counter-btn {
+    background-color: blueviolet;
+    border-radius: 30px;
+    color: white;
+    font-size: 25px;
+    width: 100px;
+    margin: 10px 50px;
+    padding: 5px;
+}
